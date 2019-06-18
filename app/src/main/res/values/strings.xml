@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ExchangeRates</string>
+    <string name="bank_info_activity_title">Branches</string>
+    <string name="empty_data">No data</string>
+    <string name="loading">Loading\u2026</string>
+</resources>
